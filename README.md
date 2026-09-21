@@ -10,3 +10,5 @@
 - CLI
 - git bash
 - GUI
+---
+실습을 합니다.
